@@ -1,0 +1,8 @@
+Introduction to Computers - Study Notes
+========================================
+Student Roll Number: Saim-26K-3074
+
+Topics Covered:
+1. Introduction to Computers & Basic Concepts
+2. Types of Computers (Supercomputers, Mainframes, Laptops, Desktops)
+3. History & Evolution of Computers
